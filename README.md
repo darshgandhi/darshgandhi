@@ -1,8 +1,8 @@
 # Hello, I'm Darsh 👋🏼:
 A software developer specializing in full-stack development with expertise in Python, JavaScript, C/C++, React, Node.js, and SQL. I focus on building efficient and impactful solutions.
 
-👨🏼‍🎓 Currently studying Computer Science in my Final Year at Wilfrid Laurier University<br>
-👨🏼‍💻 Previously worked as an Automation Developer intern at RBC (2023-2024)<br>
+👨🏼‍🎓 Wilfrid Laurier University graduate BSc in Computer Science (2025)<br>
+👨🏼‍💻 Previously worked as a Software Developer intern at RBC (2023-2024) w/ the Automation Enablement Team<br>
 
 [![🌐 Visit My Portfolio](https://img.shields.io/badge/-darshgandhi.com-blue?style=for-the-badge)](https://darshgandhi.com)  
 ↗️ *(Ctrl+Click or Cmd+Click to open in a new tab)*
