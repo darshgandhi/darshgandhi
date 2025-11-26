@@ -2,6 +2,8 @@
 A software developer specializing in full-stack development with expertise in Python, JavaScript, C/C++, React, Node.js, and SQL. I focus on building efficient and impactful solutions.
 
 👨🏼‍🎓 BSc in Computer Science (2025)<br>
+
+👨🏼‍💻 Software Integration Engineer at Brock Solutions (2025-)
 👨🏼‍💻 Automation Developer intern at RBC (2023-2024) w/ the Automation Enablement Team<br>
 
 [![🌐 Visit My Portfolio](https://img.shields.io/badge/-darshgandhi.com-blue?style=for-the-badge)](https://darshgandhi.com)  
