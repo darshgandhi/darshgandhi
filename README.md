@@ -3,7 +3,7 @@ A software developer specializing in full-stack development with expertise in Py
 
 👨🏼‍🎓 BSc in Computer Science (2025)<br>
 
-👨🏼‍💻 Software Integration Engineer at Brock Solutions (2025-) <br>
+👨🏼‍💻 Software Developer at Brock Solutions (2025-) <br>
 👨🏼‍💻 Automation Developer intern at RBC (2023-2024) w/ the Automation Enablement Team<br>
 
 [![🌐 Visit My Portfolio](https://img.shields.io/badge/-darshgandhi.com-blue?style=for-the-badge)](https://darshgandhi.com)  
