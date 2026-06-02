@@ -6,8 +6,7 @@ A software developer specializing in full-stack development with expertise in Py
 
 👨🏼‍🎓 BSc in Computer Science (2025)<br>
 
-[![🌐 Visit My Portfolio](https://img.shields.io/badge/-darshgandhi.com-blue?style=for-the-badge)](https://darshgandhi.com)  
-↗️ *(Ctrl+Click or Cmd+Click to open in a new tab)*
+[![🌐 Click to Visit My Portfolio](https://img.shields.io/badge/-darshgandhi.com-blue?style=for-the-badge)](https://darshgandhi.com)  
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
